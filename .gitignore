@@ -1,0 +1,29 @@
+.idea/
+.DS_Store
+*.pyc
+*.xlsx
+credentials.py
+acitoolkit/
+ACI_Configuration_vENV/
+test*
+*.csv
+*.json
+<<<<<<< HEAD
+*.jpg
+LL*
+*.vsdx
+*.txt
+*.original
+*.log
+scratch_space/
+__init__*
+
+=======
+*.txt
+*.original
+*.jpg
+*.vsdx
+LL*
+Archive*
+>>>>>>> sa_update
+
